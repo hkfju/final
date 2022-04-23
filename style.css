@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    font-family: 'Rubik One', sans-serif;
+    font-size: 50px;
+    background: #2E2F45;
+    margin: 20px auto;
+    color: white;
+    border-radius: 5px;
+    mix-blend-mode: multiply;
+    padding: 5px 10px;
+}
+.video{
+    background: -webkit-linear-gradient(135deg, rgb(21, 44, 161), rgb(165, 50, 162));
+    background: -moz-linear-gradient(135deg, rgb(21, 44, 161), rgb(165, 50, 162));
+    background: linear-gradient(135deg, rgb(21, 44, 161), rgb(165, 50, 162)); 
+}
+.video:hover{
+    opacity: 0;
+    transition: ease-in, 2.5s;
+}
+img{
+    width:500px ;
+}
+.Starr
